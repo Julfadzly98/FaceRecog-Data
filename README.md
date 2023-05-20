@@ -4,4 +4,4 @@
 
 ### opencv-python
 ### opencv-contrib-python
-### face-recognition
+### face_recognition
